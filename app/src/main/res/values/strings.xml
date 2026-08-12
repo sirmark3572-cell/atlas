@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">黄金胶囊</string>
+    <string name="gold">GOLD · GC</string>
+    <string name="unit">USD / OZ</string>
+    <string name="trend">黄金日内走势</string>
+    <string name="loading">正在获取行情…</string>
+    <string name="widget_description">国际黄金价格与日内走势</string>
+    <string name="setup_message">黄金胶囊已启用。\n\n请长按桌面 → 小部件 → 黄金胶囊，将它添加到桌面。\n\n若 HyperOS 延迟刷新，请在系统设置中允许本应用后台运行。</string>
+</resources>
