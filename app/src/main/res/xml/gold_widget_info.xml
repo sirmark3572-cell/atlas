@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/widget_description"
+    android:initialLayout="@layout/widget_gold_capsule"
+    android:minWidth="72dp"
+    android:minHeight="146dp"
+    android:minResizeWidth="64dp"
+    android:minResizeHeight="128dp"
+    android:previewLayout="@layout/widget_gold_capsule"
+    android:resizeMode="horizontal|vertical"
+    android:targetCellWidth="1"
+    android:targetCellHeight="2"
+    android:updatePeriodMillis="1800000"
+    android:widgetCategory="home_screen" />
